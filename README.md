@@ -1,0 +1,1 @@
+# angula-call-from-outside-condtroller
